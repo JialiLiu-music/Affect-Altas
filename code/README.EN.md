@@ -1,5 +1,5 @@
 # Music Emotion Recognition — CPU-Based Audio Upload Demo
-[中文](README.md) | [English](README.en.md)
+[中文](README.CN.md) | [English](README.EN.md)
 
 This directory contains the decoupled frontend and backend implementation of the research companion demo. **The system operates exclusively on CPUs and does not return simulated prediction scores.**
 
