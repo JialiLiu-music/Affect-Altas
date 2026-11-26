@@ -1,6 +1,6 @@
 # Low-Label Output Calibration for Music Emotion Regression
 
-**English** | [简体中文](README.zh-CN.md)
+**English** | [简体中文](README.CN.md)
 
 Draft research manuscript and supporting figures for low-label output calibration in cross-dataset music emotion regression.
 
