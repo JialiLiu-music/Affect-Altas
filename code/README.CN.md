@@ -1,5 +1,5 @@
 # 音乐情绪 CPU 上传演示站
-[中文](README.md) | [English](README.en.md)
+[中文](README.CN.md) | [English](README.EN.md)
 
 本目录是论文配套的前后端分离演示代码，**不会使用GPU，也不会返回模拟预测分数**。预测任务是音频片段的整体愉悦度（Valence）与唤醒度（Arousal），不是逐秒情绪轨迹、情绪诊断或预测准确率。
 
